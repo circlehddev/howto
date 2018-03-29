@@ -6,5 +6,7 @@
 
 3. Note that in case you are using SSO, you will need to enter login name only.
 
+![](/assets/import.png)
+
 
 
